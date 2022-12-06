@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Ola! Eu Sou Erick Cazalla</h1> 👋
 
 <!--
 **Erick-Cazalla/Erick-Cazalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+    <a href="https://github.com/Erick-Cazalla/Erick-Cazalla ">
+        <img src="https://github-readme-stats.vercel.app/api?username=Erick-Cazalla&show_icons=true&theme=radical" alt="">
+    </a>
+</div>
