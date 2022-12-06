@@ -11,7 +11,7 @@
     <a href="https://github.com/Erick-Cazalla/Erick-Cazalla ">
         <img width="500em"  src="https://github-readme-stats.vercel.app/api?username=Erick-Cazalla&show_icons=true&theme=dark" alt="">
     </a>
-    <img width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Cazalla&layout=compact&theme=dark"
+    <img width="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Cazalla&layout=compact&theme=dark"
 </div>  
     
 <div style="display: inline_block"><br>
